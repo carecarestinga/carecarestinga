@@ -12,5 +12,7 @@
 </div>
 <br>
 <img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carecarestinga&theme=dark&layout=compact"/>
+<br>
+<img width="396px" align="left" src="./ImagemLivros.jpg"/>
 
   <!-- ![Snake animation](https://github.com/carecarestinga/carecarestinga/blob/output/github-contribution-grid-snake.svg) -->

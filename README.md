@@ -11,7 +11,7 @@
   <img align="center" alt="carecarestinga-Postgresql" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 <br>
-<img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carecarestinga&theme=dark"/>
+<img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carecarestinga&layout=donut"/>
 <br>
 <img width="396px" align="left" src="./ImagemLivros.jpg"/>
 <br><br>

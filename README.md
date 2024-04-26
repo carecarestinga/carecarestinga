@@ -6,9 +6,14 @@
 <a href="https://www.linkedin.com/in/carecarestinga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:carecarestinga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div style="display: inline_block">
-  <img align="center" alt="carecarestinga-Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="carecarestinga-Spring" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="carecarestinga-Postgresql" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="carecarestinga-java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="carecarestinga-spring" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="carecarestinga-postgresql" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
+  <img align="center" alt="carecarestinga-docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="carecarestinga-aws" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+        <img align="center" alt="carecarestinga-angular" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  
 </div>
 <br>
 <img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carecarestinga&layout=donut"/>

@@ -30,4 +30,7 @@
 <br><br>
 <img width="396px" align="left" src="./CincoMelhoresPráticasArquiteturaMicroservices.gif"/>
 <br>
-  <!-- ![Snake animation](https://github.com/carecarestinga/carecarestinga/blob/output/github-contribution-grid-snake.svg) -->
+<div width="396px" align="center" >
+  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
+</div>
+

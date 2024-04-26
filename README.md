@@ -13,6 +13,10 @@
 <br>
 <img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carecarestinga&theme=dark&layout=compact"/>
 <br>
+<br>
 <img width="396px" align="left" src="./ImagemLivros.jpg"/>
-
+<br>
+<br>
+<img width="396px" align="left" src="./CincoMelhoresPráticasArquiteturaMicroservices.gif"/>
+<br>
   <!-- ![Snake animation](https://github.com/carecarestinga/carecarestinga/blob/output/github-contribution-grid-snake.svg) -->

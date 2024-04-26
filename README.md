@@ -1,4 +1,4 @@
-### Hello, sou Carlos Soares! 👋
+### Hello, sou Carlos Soares! 
 
 - :man_technologist:<a href="https://www.github.com/" target="_blank">Desenvolvedor de Sistemas</a>.    
 

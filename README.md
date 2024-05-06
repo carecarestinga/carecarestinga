@@ -1,11 +1,11 @@
   ### <div  align="center"> Olá, sou Carlos R. P. Soares! </div>
 
 
-## Desenvolvedor Pleno de Sistemas Web | Rest | Java | SpringBoot | JSF/JSP | Angular | React
+## Desenvolvedor Pleno de Sistemas Web | Java | SpringBoot | JSF/JSP | Angular | React
 - Intermediária á Avançada com Java 8, 11, 17, 21. POO ( Polimorfismo, Herança, Abstrações, SOLID, Padrões de Projetos, Clean Code.
 - Intermediário á Avançada em Especificações Jakarta/JEE, EJB, JSP/JSTL, JSF (Primefaces, RichFaces), Hibernate, Swagger.
 - Intermediária á Avançada Spring (SpringBoot, Spring Data JPA/JDBC, Web, MVC, WebServices, CDI, Junit 4/5, Security, Batch, Cloud.
-- Intermediária MicroServiços ( Midlewares, SOAP, API’s Rest / Gateway, Mensageria/Filas AMQP / RabbitMQ / Kafka ), Kubernate, NGINX.
+- Intermediária MicroServiços ( SOAP, API’s Rest / Gateway, Mensageria/Filas AMQP / RabbitMQ / Kafka ), Kubernate, NGINX.
 - Intermediária Deploy e Versionamento com Maven e Gradle, Jenkins, TFS, Git, GitLab, Github. Agil com Scrum e KanBan ( JIRA ).
 - Básico á Intermediário em DQL, DML, DDL, DCL e DTL nos Banco de Dados com Oracle, PostgreSQL, MySQL, MongoDB.
 - Básico á Intermediário em Servers/Containers WildFly, JBoss, WebSphere, Tomcat, Máquinas Virtuais e Docker;

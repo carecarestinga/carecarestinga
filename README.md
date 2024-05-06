@@ -32,5 +32,6 @@
 <br>
 <div width="396px" align="center" >
   <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
+  <img  src="https://github.com/cliport/cliport/blob/master/media/sim_tasks.gif" />
 </div>
 

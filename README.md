@@ -2,16 +2,14 @@
 
 
 ## Desenvolvedor Pleno de Sistemas Web | Java | SpringBoot | JSF/JSP | Angular | React
-- Intermediária á Avançada com Java 8, 11, 17, 21. POO ( Polimorfismo, Herança, Abstrações, SOLID, Padrões de Projetos, Clean Code.
-- Intermediário á Avançada em Especificações Jakarta/JEE, EJB, JSP/JSTL, JSF (Primefaces, RichFaces), Hibernate, Swagger.
-- Intermediária á Avançada Spring (SpringBoot, Spring Data JPA/JDBC, Web, MVC, WebServices, CDI, Junit 4/5, Security, Batch, Cloud.
-- Intermediária MicroServiços ( SOAP, API’s Rest / Gateway, Mensageria/Filas AMQP / RabbitMQ / Kafka ), Kubernate, NGINX.
-- Intermediária Deploy e Versionamento com Maven e Gradle, Jenkins, TFS, Git, GitLab, Github. Agil com Scrum e KanBan ( JIRA ).
-- Básico á Intermediário em DQL, DML, DDL, DCL e DTL nos Banco de Dados com Oracle, PostgreSQL, MySQL, MongoDB.
-- Básico á Intermediário em Servers/Containers WildFly, JBoss, WebSphere, Tomcat, Máquinas Virtuais e Docker;
-- Básico á Intermediário em ambiente Cloud AWS ECS, SQS, SNS, S3, RDS, VPC, Perfil IAM;
-- Básico á Intermediário em Dev OP’s e configurações de ambiente Windows e Linux com CLI, PowerShell e Bash, Open SSH, LDAP;
-- Básico á Intermediário em FrontEnd com JavaScript, TypeScript, AngularJS e 2+, ReactJS, NodeJS;
+•	Java: Avançado Spring (Boot, MVC, Security, Data JPA/JDBC, Cloud, Batch), Hibernate, CDI, Swagger, JSP/JSTL/JSF ( Primefaces, RichFaces ).
+•	Orientação ao Objeto: Herança, Abstrações, SOLID, Padrões de Projetos, Clean Code.
+•	AWS: Básico em serviços AWS ( EC2, S3, RDS, SQS, SNS, Lambda, API Gateway ).
+•	Microserviços: Intermediário  Service Discovery, Config Server, Gateway, Cloud e Básico em Mensageria ( RabbitMQ e Kafka ), kubernates. 
+•	BD’s: Intermediario MySQL, PostgreSQL, Oracle, SQL e Básico NoSQL (MongoDB, DynamoDB e Redis).
+•	Testes e Deploy: Intermediario testes unitários, integração e entregas continuas com Jenkins, GIT, SVN e TFS.
+•	Frontend: Básico á Intermediário em FrontEnd com JavaScript, TypeScript, AngularJS e 2+, ReactJS, NodeJS.
+•	Frameworks: Básico em Kotlin, Quarkus, Camel, etc.
 
 
 <a href="https://www.linkedin.com/in/carecarestinga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

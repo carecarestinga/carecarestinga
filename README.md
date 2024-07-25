@@ -2,14 +2,14 @@
 
 
 ## Desenvolvedor Pleno de Sistemas Web | Java | SpringBoot | JSF/JSP | Angular | React
-•	Java: Avançado Spring (Boot, MVC, Security, Data JPA/JDBC, Cloud, Batch), Hibernate, CDI, Swagger, JSP/JSTL/JSF ( Primefaces, RichFaces ).
-•	Orientação ao Objeto: Herança, Abstrações, SOLID, Padrões de Projetos, Clean Code.
-•	AWS: Básico em serviços AWS ( EC2, S3, RDS, SQS, SNS, Lambda, API Gateway ).
-•	Microserviços: Intermediário  Service Discovery, Config Server, Gateway, Cloud e Básico em Mensageria ( RabbitMQ e Kafka ), kubernates. 
-•	BD’s: Intermediario MySQL, PostgreSQL, Oracle, SQL e Básico NoSQL (MongoDB, DynamoDB e Redis).
-•	Testes e Deploy: Intermediario testes unitários, integração e entregas continuas com Jenkins, GIT, SVN e TFS.
-•	Frontend: Básico á Intermediário em FrontEnd com JavaScript, TypeScript, AngularJS e 2+, ReactJS, NodeJS.
-•	Frameworks: Básico em Kotlin, Quarkus, Camel, etc.
+-	Java: Avançado Spring (Boot, MVC, Security, Data JPA/JDBC, Cloud, Batch), Hibernate, CDI, Swagger, JSP/JSTL/JSF ( Primefaces, RichFaces ).
+-	Orientação ao Objeto: Herança, Abstrações, SOLID, Padrões de Projetos, Clean Code.
+-	AWS: Básico em serviços AWS ( EC2, S3, RDS, SQS, SNS, Lambda, API Gateway ).
+-	Microserviços: Intermediário  Service Discovery, Config Server, Gateway, Cloud e Básico em Mensageria ( RabbitMQ e Kafka ), kubernates. 
+-	BD’s: Intermediario MySQL, PostgreSQL, Oracle, SQL e Básico NoSQL (MongoDB, DynamoDB e Redis).
+-	Testes e Deploy: Intermediario testes unitários, integração e entregas continuas com Jenkins, GIT, SVN e TFS.
+-	Frontend: Básico á Intermediário em FrontEnd com JavaScript, TypeScript, AngularJS e 2+, ReactJS, NodeJS.
+-	Frameworks: Básico em Kotlin, Quarkus, Camel, etc.
 
 
 <a href="https://www.linkedin.com/in/carecarestinga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
